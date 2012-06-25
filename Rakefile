@@ -375,3 +375,9 @@ task :list do
   puts "Tasks: #{(Rake::Task.tasks - [Rake::Task[:list]]).join(', ')}"
   puts "(type rake -T for more detail)\n\n"
 end
+
+desc "Deploy website via LFTP"
+task :lftp do
+  puts "## Deploying website via LFTP"
+  ok_failed system("lftp -e 'mirror -R -v #{ENV['OCTOPRESS_PUBLIC_DIR']} #{ENV['OCTOPRESS_FTP_TARGET']}; bye' -u #{ENV['OCTOPRESS_FTP_USER']} #{ENV['OCTOPRESS_FTP_SERVER']}")
+end
