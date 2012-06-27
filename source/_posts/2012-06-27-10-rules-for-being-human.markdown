@@ -16,4 +16,4 @@ _by Cherie Carter-Scott_
 7. Other people are merely mirrors of you. You cannot love or hate something about another person unless it reflects to you something you love or hate about yourself.
 8. What you make of your life is up to you. You have all the tools and resources you need. What you do with them is up to you. The choice is yours.
 9. Your answers lie within you. The answers to life's questions lie within you. All you need to do is look, listen, and trust.
-10.You will forget all this.
+10. You will forget all this.
