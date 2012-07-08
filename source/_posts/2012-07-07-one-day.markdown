@@ -1,0 +1,8 @@
+---
+layout: post
+title: "One Day"
+date: 2012-07-07 21:10
+comments: true
+categories: 
+---
+your life will flash before your eyes. Make sure it's worth watching.
