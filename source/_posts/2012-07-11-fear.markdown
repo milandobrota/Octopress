@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Fear"
+date: 2012-07-11 13:51
+comments: true
+categories: 
+---
+
+Fear kills life more than death.
