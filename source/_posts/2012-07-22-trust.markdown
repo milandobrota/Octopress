@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Trust"
+date: 2012-07-22 18:28
+comments: true
+categories: 
+---
+> The best way to find out if you can trust somebody is to trust them.
+
+Ernest Hemingway
